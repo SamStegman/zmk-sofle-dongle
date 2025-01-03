@@ -4,15 +4,15 @@ The config allows you to use 3 n!n, one for the dongle, one for the left half, o
 
 Config contains [Watchman's layout](https://github.com/aroum/Watchman-layouts).
 
-This is a config for [Enki 42](https://www.reddit.com/r/ErgoMechKeyboards/comments/qeq2qg/enki42_slim_ergo_keyboard/), but you can use it with corne or any other compatible keyboard.
+This is a config for [Enki 42](https://www.reddit.com/r/ErgoMechKeyboards/comments/qeq2qg/sofle_slim_ergo_keyboard/), but you can use it with corne or any other compatible keyboard.
 
 You can change the name in line
 ```
-CONFIG_ZMK_KEYBOARD_NAME="Enki42"
+CONFIG_ZMK_KEYBOARD_NAME="sofle"
 ```
 in file
 ```
-config/boards/shields/enki42/enki42.conf
+config/boards/shields/sofle/sofle.conf
 ```
 ## Install
 
